@@ -1,12 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
-
 <h1 align="center">👋 Ruchi's Journey in Tech</h1>
 <h3 align="center">Transforming Ideas into Code</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+<img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchibajra&label=Profile%20views&color=0e75b6&style=flat" alt="ruchibajra" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchibajra" alt="ruchibajra" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qubeena07&label=Profile%20views&color=0e75b6&style=flat" alt="qubeena07" /> </p>
 
 - 🔭 I’m currently working on **Furniture Mobile App**
 
@@ -31,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchibajra&show_icons=true&locale=en" alt="ruchibajra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchibajra&" alt="ruchibajra" /></p>
