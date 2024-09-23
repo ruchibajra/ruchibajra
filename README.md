@@ -6,13 +6,13 @@
  -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=qubeena07&label=Profile%20views&color=0e75b6&style=flat" alt="ruchibajra" /> </p> -->
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Mobile Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ruchibajra?tab=repositories](https://github.com/ruchibajra?tab=repositories)
 
 - 💬 Ask me about **Html, Css, Javascript, Flutter, Python, Java, Firebase**
 
-- 📫 How to reach me **ruchibajracharya8@gmail.com**
+- 📫 How to reach me **ruchibajra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
